@@ -34,5 +34,5 @@ A 4-bit input is scrambled with a pseudo-random key from an LFSR, stored in RAM,
 5. Enable ticks (Simulate > Ticks Enabled, or Ctrl+K), or step with Ctrl+T.
 Each pass through the FSM scrambles and writes the data in state 2, then shows the recovered data in states 3 and 4.
 
-##circuit :
+## circuit :
 ![Circuit screenshot](images/circuit.png)
